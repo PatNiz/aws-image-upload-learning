@@ -7,6 +7,8 @@ Upload user images to aws cloud
 Backend:
 SPRING+HIBERNATE+MYSQL+AWS
 
+![2023_04_12_12_38_40_66606086_491abc00_eba9_11e9_8051_14d4b8eb1ca1 png_2124_1330_](https://user-images.githubusercontent.com/65347753/231595510-4ef6e852-8d88-4571-87b2-28c07bd5d0d9.png)
+
 
 Aws s3 bucket:
 
