@@ -1,6 +1,6 @@
 # aws-image-upload-learning-Backend-Spring-Hibernate-MySql-Aws
 
-Based on AmigosCode course.
+Based on course.
 
 Upload user images to aws cloud
 
